@@ -33,11 +33,11 @@
   --home-button-position: center;
   --serverlist-brightness: 0.3;
   --left-brightness: 0;
-  --middle-brightness: 0.3;
-  --right-brightness: 0.5;
-  --overlay-brightness: 0.4;
-  --gradient-primary: 230,124,54;
-  --gradient-secondary: 63,35,64;
+  --middle-brightness: 0.5;
+  --right-brightness: 0.4;
+  --overlay-brightness: 0.5;
+  --gradient-primary: #2C8E90;
+  --gradient-secondary: #2C8E90;
   --link-colour: #2C8E90;
   --scrollbar-colour: rgb(44,142,144,0.51);
   --gradient-direction: 270deg;
